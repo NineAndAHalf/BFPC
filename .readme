@@ -1,2 +1,0 @@
-This program compile a brainfuck code to machine code.
-Syntax run: [Python path] main.py [input file] [output file]
